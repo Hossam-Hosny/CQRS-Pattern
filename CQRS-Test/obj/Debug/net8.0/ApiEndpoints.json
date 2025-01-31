@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "CQRS_Test.Controllers.ItemsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Items",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CQRS_Test.Controllers.ItemsController",
+    "Method": "InsertItem",
+    "RelativePath": "api/Items",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "CQRS_Library.Data.Models.Items",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

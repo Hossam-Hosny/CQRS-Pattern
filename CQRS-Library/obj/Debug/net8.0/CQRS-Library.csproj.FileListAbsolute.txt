@@ -1,0 +1,14 @@
+C:\Users\java\Desktop\CQRS Pattern\CQRS-Test\CQRS-Library\bin\Debug\net8.0\CQRS-Library.deps.json
+C:\Users\java\Desktop\CQRS Pattern\CQRS-Test\CQRS-Library\bin\Debug\net8.0\CQRS-Library.runtimeconfig.json
+C:\Users\java\Desktop\CQRS Pattern\CQRS-Test\CQRS-Library\bin\Debug\net8.0\CQRS-Library.dll
+C:\Users\java\Desktop\CQRS Pattern\CQRS-Test\CQRS-Library\bin\Debug\net8.0\CQRS-Library.pdb
+C:\Users\java\Desktop\CQRS Pattern\CQRS-Test\CQRS-Library\obj\Debug\net8.0\CQRS-Library.csproj.AssemblyReference.cache
+C:\Users\java\Desktop\CQRS Pattern\CQRS-Test\CQRS-Library\obj\Debug\net8.0\CQRS-Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\java\Desktop\CQRS Pattern\CQRS-Test\CQRS-Library\obj\Debug\net8.0\CQRS-Library.AssemblyInfoInputs.cache
+C:\Users\java\Desktop\CQRS Pattern\CQRS-Test\CQRS-Library\obj\Debug\net8.0\CQRS-Library.AssemblyInfo.cs
+C:\Users\java\Desktop\CQRS Pattern\CQRS-Test\CQRS-Library\obj\Debug\net8.0\CQRS-Library.csproj.CoreCompileInputs.cache
+C:\Users\java\Desktop\CQRS Pattern\CQRS-Test\CQRS-Library\obj\Debug\net8.0\CQRS-Library.dll
+C:\Users\java\Desktop\CQRS Pattern\CQRS-Test\CQRS-Library\obj\Debug\net8.0\refint\CQRS-Library.dll
+C:\Users\java\Desktop\CQRS Pattern\CQRS-Test\CQRS-Library\obj\Debug\net8.0\CQRS-Library.pdb
+C:\Users\java\Desktop\CQRS Pattern\CQRS-Test\CQRS-Library\obj\Debug\net8.0\CQRS-Library.genruntimeconfig.cache
+C:\Users\java\Desktop\CQRS Pattern\CQRS-Test\CQRS-Library\obj\Debug\net8.0\ref\CQRS-Library.dll

@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5819C3DD-0B06-4A4E-93F5-A19ABED5F7B9}|CQRS-Library\\CQRS-Library.csproj|c:\\users\\java\\desktop\\cqrs pattern\\cqrs-test\\cqrs-library\\queries\\getallitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5819C3DD-0B06-4A4E-93F5-A19ABED5F7B9}|CQRS-Library\\CQRS-Library.csproj|solutionrelative:cqrs-library\\queries\\getallitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5819C3DD-0B06-4A4E-93F5-A19ABED5F7B9}|CQRS-Library\\CQRS-Library.csproj|c:\\users\\java\\desktop\\cqrs pattern\\cqrs-test\\cqrs-library\\handlers\\getitemslisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5819C3DD-0B06-4A4E-93F5-A19ABED5F7B9}|CQRS-Library\\CQRS-Library.csproj|solutionrelative:cqrs-library\\handlers\\getitemslisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CB8E1-F87F-4D39-AF74-0C2A6B191B46}|CQRS-Test\\CQRS-Test.csproj|c:\\users\\java\\desktop\\cqrs pattern\\cqrs-test\\cqrs-test\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CB8E1-F87F-4D39-AF74-0C2A6B191B46}|CQRS-Test\\CQRS-Test.csproj|solutionrelative:cqrs-test\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CB8E1-F87F-4D39-AF74-0C2A6B191B46}|CQRS-Test\\CQRS-Test.csproj|c:\\users\\java\\desktop\\cqrs pattern\\cqrs-test\\cqrs-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187CB8E1-F87F-4D39-AF74-0C2A6B191B46}|CQRS-Test\\CQRS-Test.csproj|solutionrelative:cqrs-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5819C3DD-0B06-4A4E-93F5-A19ABED5F7B9}|CQRS-Library\\CQRS-Library.csproj|c:\\users\\java\\desktop\\cqrs pattern\\cqrs-test\\cqrs-library\\handlers\\insertitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5819C3DD-0B06-4A4E-93F5-A19ABED5F7B9}|CQRS-Library\\CQRS-Library.csproj|solutionrelative:cqrs-library\\handlers\\insertitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5819C3DD-0B06-4A4E-93F5-A19ABED5F7B9}|CQRS-Library\\CQRS-Library.csproj|c:\\users\\java\\desktop\\cqrs pattern\\cqrs-test\\cqrs-library\\commands\\insertitemcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5819C3DD-0B06-4A4E-93F5-A19ABED5F7B9}|CQRS-Library\\CQRS-Library.csproj|solutionrelative:cqrs-library\\commands\\insertitemcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CB8E1-F87F-4D39-AF74-0C2A6B191B46}|CQRS-Test\\CQRS-Test.csproj|c:\\users\\java\\desktop\\cqrs pattern\\cqrs-test\\cqrs-test\\cqrs-test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{187CB8E1-F87F-4D39-AF74-0C2A6B191B46}|CQRS-Test\\CQRS-Test.csproj|solutionrelative:cqrs-test\\cqrs-test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE77573-30CF-4354-871C-B9601AAEA79C}|Repositories\\Repositories.csproj|c:\\users\\java\\desktop\\cqrs pattern\\cqrs-test\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE77573-30CF-4354-871C-B9601AAEA79C}|Repositories\\Repositories.csproj|solutionrelative:repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F41ED9-A055-4902-B06F-3F4C581977AA}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\java\\desktop\\cqrs pattern\\cqrs-test\\repositorycontracts\\iitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F41ED9-A055-4902-B06F-3F4C581977AA}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\iitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Migrations\\20250131180044_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CQRS-Library\\Migrations\\20250131180044_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187CB8E1-F87F-4D39-AF74-0C2A6B191B46}|CQRS-Test\\CQRS-Test.csproj|c:\\users\\java\\desktop\\cqrs pattern\\cqrs-test\\cqrs-test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{187CB8E1-F87F-4D39-AF74-0C2A6B191B46}|CQRS-Test\\CQRS-Test.csproj|solutionrelative:cqrs-test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5819C3DD-0B06-4A4E-93F5-A19ABED5F7B9}|CQRS-Library\\CQRS-Library.csproj|c:\\users\\java\\desktop\\cqrs pattern\\cqrs-test\\cqrs-library\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5819C3DD-0B06-4A4E-93F5-A19ABED5F7B9}|CQRS-Library\\CQRS-Library.csproj|solutionrelative:cqrs-library\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5819C3DD-0B06-4A4E-93F5-A19ABED5F7B9}|CQRS-Library\\CQRS-Library.csproj|c:\\users\\java\\desktop\\cqrs pattern\\cqrs-test\\cqrs-library\\data\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5819C3DD-0B06-4A4E-93F5-A19ABED5F7B9}|CQRS-Library\\CQRS-Library.csproj|solutionrelative:cqrs-library\\data\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5819C3DD-0B06-4A4E-93F5-A19ABED5F7B9}|CQRS-Library\\CQRS-Library.csproj|c:\\users\\java\\desktop\\cqrs pattern\\cqrs-test\\cqrs-library\\mylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5819C3DD-0B06-4A4E-93F5-A19ABED5F7B9}|CQRS-Library\\CQRS-Library.csproj|solutionrelative:cqrs-library\\mylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Test\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "CQRS-Test\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Test\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "CQRS-Test\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:11:17.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Test\\Program.cs",
+              "RelativeDocumentMoniker": "CQRS-Test\\Program.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Test\\Program.cs",
+              "RelativeToolTip": "CQRS-Test\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:52:47.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllItemsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Queries\\GetAllItemsQuery.cs",
+              "RelativeDocumentMoniker": "CQRS-Library\\Queries\\GetAllItemsQuery.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Queries\\GetAllItemsQuery.cs",
+              "RelativeToolTip": "CQRS-Library\\Queries\\GetAllItemsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:31:50.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetItemsListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Handlers\\GetItemsListHandler.cs",
+              "RelativeDocumentMoniker": "CQRS-Library\\Handlers\\GetItemsListHandler.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Handlers\\GetItemsListHandler.cs",
+              "RelativeToolTip": "CQRS-Library\\Handlers\\GetItemsListHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:33:52.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsertItemCommands.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Commands\\InsertItemCommands.cs",
+              "RelativeDocumentMoniker": "CQRS-Library\\Commands\\InsertItemCommands.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Commands\\InsertItemCommands.cs",
+              "RelativeToolTip": "CQRS-Library\\Commands\\InsertItemCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:32:38.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertItemHandler.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Handlers\\InsertItemHandler.cs",
+              "RelativeDocumentMoniker": "CQRS-Library\\Handlers\\InsertItemHandler.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Handlers\\InsertItemHandler.cs",
+              "RelativeToolTip": "CQRS-Library\\Handlers\\InsertItemHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:38:18.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CQRS-Test",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Test\\CQRS-Test.csproj",
+              "RelativeDocumentMoniker": "CQRS-Test\\CQRS-Test.csproj",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Test\\CQRS-Test.csproj",
+              "RelativeToolTip": "CQRS-Test\\CQRS-Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T18:58:03.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\Repositories\\ItemRepository.cs",
+              "RelativeToolTip": "Repositories\\ItemRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:03:43.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IItems.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\RepositoryContracts\\IItems.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IItems.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\RepositoryContracts\\IItems.cs",
+              "RelativeToolTip": "RepositoryContracts\\IItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:03:24.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250131180044_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Migrations\\20250131180044_Initial.cs",
+              "RelativeDocumentMoniker": "CQRS-Library\\Migrations\\20250131180044_Initial.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Migrations\\20250131180044_Initial.cs",
+              "RelativeToolTip": "CQRS-Library\\Migrations\\20250131180044_Initial.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T18:00:45.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Test\\appsettings.json",
+              "RelativeDocumentMoniker": "CQRS-Test\\appsettings.json",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Test\\appsettings.json",
+              "RelativeToolTip": "CQRS-Test\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T17:50:55.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CQRS-Library\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CQRS-Library\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:49:18.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Data\\Models\\Items.cs",
+              "RelativeDocumentMoniker": "CQRS-Library\\Data\\Models\\Items.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\Data\\Models\\Items.cs",
+              "RelativeToolTip": "CQRS-Library\\Data\\Models\\Items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:45:56.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\MyLibrary.cs",
+              "RelativeDocumentMoniker": "CQRS-Library\\MyLibrary.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CQRS Pattern\\CQRS-Test\\CQRS-Library\\MyLibrary.cs",
+              "RelativeToolTip": "CQRS-Library\\MyLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:44:59.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
